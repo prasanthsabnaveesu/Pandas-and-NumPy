@@ -1,3 +1,3 @@
 # Pandas
 
-This directory contains some pandas functionalities which are used in Machine Learning.
+This directory contains some pandas functionalities and NumPy functionalities which are used in Machine Learning.
